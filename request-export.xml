@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rates>		
+<item>
+<from>P24UAH</from>
+<to>USDTERC</to>
+<in>27.7452</in>
+<out>1</out>
+<amount>155731.8238</amount>
+<fromfee>5 UAH</fromfee>
+<minamount>0.1 UAH</minamount>
+<maxamount>25000 UAH</maxamount>
+<param>manual</param>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>BTC</to>
+<in>48886.932735</in>
+<out>1</out>
+<amount>5.11742288</amount>
+<minamount>300 USD</minamount>
+<maxamount>20000 USD</maxamount>
+</item>
+<item>
+<from>TRX</from>
+<to>PMUSD</to>
+<in>1</in>
+<out>0.047045</out>
+<amount>0.587846</amount>
+<minamount>101 TRX</minamount>
+<maxamount>100000 TRX</maxamount>
+</item>
+<item>
+<from>WIREUAH</from>
+<to>BTC</to>
+<in>1408839.852</in>
+<out>1</out>
+<amount>5.11742288</amount>
+<fromfee>5 UAH</fromfee>
+<minamount>7500 UAH</minamount>
+<maxamount>25000 UAH</maxamount>
+</item>
+<item>
+<from>MONOBUAH</from>
+<to>BTC</to>
+<in>1293888.2</in>
+<out>1</out>
+<amount>0.145321</amount>
+<fromfee>5 UAH</fromfee>
+<minamount>1500000 UAH</minamount>
+<maxamount>2900000 UAH</maxamount>
+</item>
+<item>
+<from>CARDUAH</from>
+<to>BTC</to>
+<in>1293888.174</in>
+<out>1</out>
+<amount>0.145321</amount>
+<fromfee>5 UAH</fromfee>
+<minamount>15000 UAH</minamount>
+<maxamount>25000 UAH</maxamount>
+</item>
+<item>
+<from>P24UAH</from>
+<to>BTC</to>
+<in>1293888.174</in>
+<out>1</out>
+<amount>0.145321</amount>
+<fromfee>5 UAH</fromfee>
+<minamount>1 UAH</minamount>
+<maxamount>25000 UAH</maxamount>
+</item>
+<item>
+<from>BTC</from>
+<to>CARDRUB</to>
+<in>1</in>
+<out>3336913.2797</out>
+<amount>0</amount>
+</item>
+<item>
+<from>ADVCUSD</from>
+<to>USDTERC</to>
+<in>1.01</in>
+<out>1</out>
+<amount>6254.0208</amount>
+<minamount>0.2 USD</minamount>
+<maxamount>1 USD</maxamount>
+</item>
+<item>
+<from>CARDRUB</from>
+<to>BTC</to>
+<in>3632204.5223</in>
+<out>1</out>
+<amount>0.00161469</amount>
+<fromfee>0.95 %</fromfee>
+</item>
+<item>
+<from>TRX</from>
+<to>ACUAH</to>
+<in>1</in>
+<out>1.2555</out>
+<amount>1062015.0818</amount>
+<minamount>101 TRX</minamount>
+<maxamount>100000 TRX</maxamount>
+</item>
+<item>
+<from>USDTERC</from>
+<to>CARDUSD</to>
+<in>1.064</in>
+<out>1</out>
+<amount>89741.35</amount>
+<minamount>21.28 USDT</minamount>
+<maxamount>3192 USDT</maxamount>
+<param>juridical</param>
+</item>
+<item>
+<from>USDTERC</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>0.97</out>
+<amount>142732.3518</amount>
+<minamount>10.309 USDT</minamount>
+<maxamount>10309.278 USDT</maxamount>
+</item>
+<item>
+<from>HOGE</from>
+<to>PRUSD</to>
+<in>1</in>
+<out>0.97</out>
+<amount>142732.3518</amount>
+<minamount>10.309 HOGE</minamount>
+<maxamount>10309.278 HOGE</maxamount>
+</item>
+</rates>
